@@ -19,12 +19,31 @@ I'm a **Cloud & DevOps Engineer (Fresher)** focused on building practical cloud 
 
 I learn by building hands-on projects with **AWS, Terraform, Kubernetes, CI/CD, GitOps and observability.**
 
-### 🚀 Currently Building
+### 🚀 What I've Built
 
-**AWS Production Serverless Event-Driven Platform**
+**☁️ AWS Cloud Infrastructure**
+<br>
+Production AWS infrastructure with **Terraform** — VPC, Networking, EC2, RDS, ALB, Auto Scaling, IAM & CloudWatch.
 
-`Lambda` `API Gateway` `EventBridge`  
-`SQS` `DynamoDB` `Terraform`
+**☸️ Production Kubernetes Platform**
+<br>
+Built a production-style **Amazon EKS platform** with Terraform, Helm, ECR, AWS Load Balancer Controller & GitOps.
+
+**📊 EKS Observability Platform**
+<br>
+Implemented **Prometheus, Grafana, Alertmanager, Loki & Fluent Bit** for metrics, dashboards, alerting and logs.
+
+**🔄 CI/CD & GitOps Platform**
+<br>
+Built an **AWS EKS CI/CD platform** using GitHub Actions, Docker, ECR, Helm & Argo CD.
+
+**⚡ Serverless Event-Driven Platform**
+<br>
+Currently building with **Lambda, API Gateway, EventBridge, SQS, DynamoDB & Terraform**.
+
+<br>
+
+> 💡 **I don't just learn DevOps — I build with it.**
 
 <br>
 
