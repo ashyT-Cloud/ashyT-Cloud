@@ -1,6 +1,6 @@
 <img align="right" src="./assets/cloud-devops-wink.gif" alt="Cloud & DevOps" width="440"/>
 
-# <h1 align="center">👋 Hi, I'm Ashish</h1>
+#👋 Hi, I'm Ashish
 
 ### ☁️ Cloud & DevOps Engineer
 
