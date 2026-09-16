@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="./assets/cloud-devops-profile.png" alt="Ashish - Cloud & DevOps" width="850"/>
+<img src="./assets/cloud-devops-banner.png" alt="Ashish - Cloud & DevOps" width="850"/>
 
 <br>
 
