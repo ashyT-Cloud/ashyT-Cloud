@@ -1,10 +1,13 @@
 <img align="right" src="./assets/cloud-devops-wink.gif" alt="Cloud & DevOps" width="440"/>
 
-#<h1 align="center">👋 Hi, I'm Ashish </h1>
-
-### ☁️ Cloud & DevOps Engineer
-
-**AWS • Kubernetes • Terraform • Docker • CI/CD**
+<div align="center">
+  <strong>👋 Hi, I'm Ashish</strong>
+  <br>
+  <strong>☁️ Cloud & DevOps Engineer</strong>
+  <br>
+  <br>
+  <strong>AWS • Kubernetes • Terraform • Docker • CI/CD</strong>
+</div>
 
 I build, automate and deploy practical cloud infrastructure and DevOps solutions.
 
