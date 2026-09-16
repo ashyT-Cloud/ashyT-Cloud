@@ -69,9 +69,50 @@ I learn by building hands-on projects with **AWS, Terraform, Kubernetes, CI/CD, 
 
 <div align="center">
 
+## 🛠️ Things I Like Building
+
+<br><br>
+
+☁️ **Cloud Infrastructure** &nbsp;•&nbsp;
+⚙️ **Automation** &nbsp;•&nbsp;
+☸️ **Kubernetes** &nbsp;•&nbsp;
+🔄 **CI/CD** &nbsp;•&nbsp;
+📊 **Observability**
+
+</div>
+
+---
+
+<div align="center">
+
+### ☁️ A Little About How I Think
+
+**I like turning “it works on my machine” into “it works everywhere.”**
+
+Curious about clouds, obsessed with automation,  
+and usually one `kubectl logs` away from finding out what went wrong. 😅
+
+<br>
+
+🏏 Cricket when I'm away from the terminal  
+&nbsp;&nbsp;•&nbsp;&nbsp;
+🎧 Music while building  
+&nbsp;&nbsp;•&nbsp;&nbsp;
+📚 Always learning something new
+
+<br><br>
+
+> **Build it. Break it. Understand it. Automate it.**
+
+</div>
+
+---
+
+<div align="center">
+
 ### 🎯 Build → Break → Learn → Fix → Automate → Repeat
 
-### ☁️ Small Steps. Deploy Big Things.
+☁️ **Small Steps. Deploy Big Things.**
 
 **Cloud • Code • Automate • Deploy**
 
