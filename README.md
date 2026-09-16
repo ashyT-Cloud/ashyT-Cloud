@@ -4,48 +4,73 @@
 
 ### ☁️ Cloud & DevOps Engineer
 
-Building with **AWS • Kubernetes • Terraform • Docker • CI/CD**
+**Building with AWS • Kubernetes • Terraform • Docker • CI/CD**
 
 <br>
 
-<img src="./assets/cloud-devops-banner.png" width="750"/>
+<img src="./assets/cloud-devops-profile.png" alt="Ashish - Cloud & DevOps" width="850"/>
 
-<br><br>
+<br>
 
-[🌐 Portfolio](https://ashyt-cloud.github.io/) •
-[💼 LinkedIn](https://www.linkedin.com/in/ashish-thakur-132b00214/) •
-[📧 Email](mailto:aashishthakur14609@gmail.com)
+<a href="https://ashyt-cloud.github.io/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-0A84FF?style=for-the-badge"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/ashish-thakur-132b00214/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:aashishthakur14609@gmail.com">
+<img src="https://img.shields.io/badge/✉️_Email-Contact-EA4335?style=for-the-badge"/>
+</a>
 
 </div>
 
 ---
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 👨‍💻 About
 
-I'm a Cloud & DevOps Engineer focused on building practical
-cloud infrastructure, automation and Kubernetes platforms.
+I'm a **Cloud & DevOps Engineer (Fresher)** focused on building practical cloud infrastructure, automation and Kubernetes platforms.
 
-Currently learning by building real-world projects with AWS,
-Terraform, Kubernetes, CI/CD, GitOps and observability.
+Currently learning by building hands-on projects with **AWS, Terraform, Kubernetes, CI/CD, GitOps and observability.**
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🚀 Currently Building
 
-**AWS Production Serverless Event-Driven Platform**
+**Project 8 — AWS Production Serverless Event-Driven Platform**
 
-`Lambda` `API Gateway` `EventBridge` `SQS` `DynamoDB` `Terraform`
+`Lambda` `API Gateway` `EventBridge`  
+`SQS` `DynamoDB` `Terraform`
 
-### 🛠️ Technologies
+Building and learning event-driven serverless architecture on AWS.
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,githubactions,jenkins,linux,python,bash,grafana,prometheus"/>
-</p>
+</td>
+</tr>
+</table>
 
-### ☁️ My Approach
-
-**Build → Break → Learn → Fix → Automate → Repeat**
+---
 
 <div align="center">
 
-### Small steps. Deploy big things. ☁️
+### 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,githubactions,jenkins,linux,python,bash,grafana,prometheus,git&perline=7" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ☁️ Build • Learn • Improve • Repeat
+
+**Small steps. Deploy big things. 🚀**
 
 </div>
