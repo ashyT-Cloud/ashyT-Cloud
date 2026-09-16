@@ -13,8 +13,8 @@ Building with **AWS • Kubernetes • Terraform • Docker • CI/CD**
 <br><br>
 
 [🌐 Portfolio](https://ashyt-cloud.github.io/) •
-[💼 LinkedIn](https://www.linkedin.com/in/ashish-thakur/) •
-[📧 Email](mailto:ashishthakur.1july97@gmail.com)
+[💼 LinkedIn](https://www.linkedin.com/in/ashish-thakur-132b00214/) •
+[📧 Email](mailto:aashishthakur14609@gmail.com)
 
 </div>
 
