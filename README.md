@@ -67,8 +67,6 @@ I learn by building hands-on projects with **AWS, Terraform, Kubernetes, CI/CD, 
 
 ---
 
----
-
 <div align="center">
 
 ## 🛠️ Things I Like Building
