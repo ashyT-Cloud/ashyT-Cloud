@@ -71,8 +71,6 @@ I learn by building hands-on projects with **AWS, Terraform, Kubernetes, CI/CD, 
 
 ## 🛠️ Things I Like Building
 
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,githubactions,jenkins,linux,python,bash,grafana,prometheus,git&perline=7" />
-
 <br><br>
 
 ☁️ **Cloud Infrastructure** &nbsp;•&nbsp;
