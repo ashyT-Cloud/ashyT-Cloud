@@ -19,38 +19,12 @@ I'm a **Cloud & DevOps Engineer (Fresher)** focused on building practical cloud 
 
 I learn by building hands-on projects with **AWS, Terraform, Kubernetes, CI/CD, GitOps and observability.**
 
-### 🚀 What I've Built
+### 🚀 Currently Building
 
-☁️ **AWS Cloud Infrastructure**  
-`Terraform` → `VPC` → `EC2` → `RDS` → `ALB` → `Auto Scaling`  
-Production AWS infrastructure built with Terraform.
+**AWS Production Serverless Event-Driven Platform**
 
-<br>
-
-☸️ **Production Kubernetes Platform**  
-`Terraform` → `EKS` → `Helm` → `ECR` → `GitOps`  
-Production-style Kubernetes platform on AWS.
-
-<br>
-
-📊 **EKS Observability Platform**  
-`Prometheus` → `Grafana` → `Loki` → `Alerting`  
-Metrics • Logs • Dashboards • Monitoring.
-
-<br>
-
-🔄 **CI/CD & GitOps Platform**  
-`GitHub Actions` → `Docker` → `ECR` → `Helm` → `Argo CD`  
-Automated application delivery to Kubernetes.
-
-<br>
-
-⚡ **Serverless Event-Driven Platform**  
-`Lambda` → `API Gateway` → `EventBridge` → `SQS` → `DynamoDB`  
-🟢 **Currently Building**
-<br>
-
-> 💡 **I don't just learn DevOps — I build with it.**
+`Lambda` `API Gateway` `EventBridge`  
+`SQS` `DynamoDB` `Terraform`
 
 <br>
 
@@ -67,6 +41,29 @@ Automated application delivery to Kubernetes.
 </a>
 
 <br clear="both"/>
+
+---
+
+<div align="center">
+
+### 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,githubactions,jenkins,linux,python,bash,grafana,prometheus,git&perline=7"/>
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+- ☁️ **AWS Secure Static Website** — Terraform · S3 · CloudFront · GitHub Actions
+- 🐳 **Dockerized 3-Tier Fitness App** — Docker · Node.js · Nginx · AWS
+- ☸️ **FitTrack Kubernetes** — Kubernetes · Kind · Ingress
+- 🏗️ **AWS Production Infrastructure** — Terraform · VPC · EC2 · RDS · ALB
+- ☸️ **Production EKS Platform** — EKS · Terraform · Helm · GitOps
+- 📊 **EKS Observability Platform** — Prometheus · Grafana · Loki
+- 🔄 **EKS CI/CD & GitOps Platform** — GitHub Actions · Argo CD · ECR
+- ⚡ **Serverless Event-Driven Platform** — Lambda · EventBridge · SQS · DynamoDB
 
 ---
 
@@ -117,6 +114,10 @@ and usually one `kubectl logs` away from finding out what went wrong. 😅
 
 <div align="center">
 
+### 🎯 Build → Break → Learn → Fix → Automate → Repeat
+
 ☁️ **Small Steps. Deploy Big Things.**
+
+**Cloud • Code • Automate • Deploy**
 
 </div>
