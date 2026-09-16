@@ -21,26 +21,33 @@ I learn by building hands-on projects with **AWS, Terraform, Kubernetes, CI/CD, 
 
 ### 🚀 What I've Built
 
-**☁️ AWS Cloud Infrastructure**
-<br>
-Production AWS infrastructure with **Terraform** — VPC, Networking, EC2, RDS, ALB, Auto Scaling, IAM & CloudWatch.
+☁️ **AWS Cloud Infrastructure**  
+`Terraform` → `VPC` → `EC2` → `RDS` → `ALB` → `Auto Scaling`  
+Production AWS infrastructure built with Terraform.
 
-**☸️ Production Kubernetes Platform**
 <br>
-Built a production-style **Amazon EKS platform** with Terraform, Helm, ECR, AWS Load Balancer Controller & GitOps.
 
-**📊 EKS Observability Platform**
+☸️ **Production Kubernetes Platform**  
+`Terraform` → `EKS` → `Helm` → `ECR` → `GitOps`  
+Production-style Kubernetes platform on AWS.
+
 <br>
-Implemented **Prometheus, Grafana, Alertmanager, Loki & Fluent Bit** for metrics, dashboards, alerting and logs.
 
-**🔄 CI/CD & GitOps Platform**
+📊 **EKS Observability Platform**  
+`Prometheus` → `Grafana` → `Loki` → `Alerting`  
+Metrics • Logs • Dashboards • Monitoring.
+
 <br>
-Built an **AWS EKS CI/CD platform** using GitHub Actions, Docker, ECR, Helm & Argo CD.
 
-**⚡ Serverless Event-Driven Platform**
+🔄 **CI/CD & GitOps Platform**  
+`GitHub Actions` → `Docker` → `ECR` → `Helm` → `Argo CD`  
+Automated application delivery to Kubernetes.
+
 <br>
-Currently building with **Lambda, API Gateway, EventBridge, SQS, DynamoDB & Terraform**.
 
+⚡ **Serverless Event-Driven Platform**  
+`Lambda` → `API Gateway` → `EventBridge` → `SQS` → `DynamoDB`  
+🟢 **Currently Building**
 <br>
 
 > 💡 **I don't just learn DevOps — I build with it.**
