@@ -1,4 +1,4 @@
-<div align="center">
+<img align="right" src="./assets/cloud-devops-wink.gif" alt="Cloud & DevOps" width="440"/>
 
 # 👋 Hi, I'm Ashish
 
@@ -6,13 +6,11 @@
 
 **AWS • Kubernetes • Terraform • Docker • CI/CD**
 
-</div>
+I build, automate and deploy practical cloud infrastructure and DevOps solutions.
 
 <br>
 
-<img align="right" src="./assets/cloud-devops-wink.gif" alt="Cloud & DevOps" width="470"/>
-
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
 I'm a **Cloud & DevOps Engineer (Fresher)** focused on building practical cloud infrastructure, automation and Kubernetes platforms.
 
@@ -30,11 +28,11 @@ I learn by building hands-on projects with **AWS, Terraform, Kubernetes, CI/CD, 
 <a href="https://ashyt-cloud.github.io/">
 <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-0A84FF?style=for-the-badge"/>
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/ashish-thakur-132b00214/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="mailto:aashishthakur14609@gmail.com">
 <img src="https://img.shields.io/badge/✉️_Email-Contact-EA4335?style=for-the-badge"/>
 </a>
@@ -45,15 +43,15 @@ I learn by building hands-on projects with **AWS, Terraform, Kubernetes, CI/CD, 
 
 <div align="center">
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,githubactions,jenkins,linux,python,bash,grafana,prometheus,git&perline=7" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,githubactions,jenkins,linux,python,bash,grafana,prometheus,git&perline=7"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
 - ☁️ **AWS Secure Static Website** — Terraform · S3 · CloudFront · GitHub Actions
 - 🐳 **Dockerized 3-Tier Fitness App** — Docker · Node.js · Nginx · AWS
@@ -66,27 +64,12 @@ I learn by building hands-on projects with **AWS, Terraform, Kubernetes, CI/CD, 
 
 ---
 
-## 🎯 My Approach
-
-**Build → Break → Learn → Fix → Automate → Repeat**
-
-## 📚 Currently Learning
-
-☁️ AWS Architecture · ☸️ Kubernetes & EKS · 🏗️ Infrastructure as Code  
-🔄 CI/CD & GitOps · 📊 Observability · ⚡ Serverless Architecture
-
----
-
 <div align="center">
+
+### 🎯 Build → Break → Learn → Fix → Automate → Repeat
 
 ### ☁️ Small Steps. Deploy Big Things.
 
 **Cloud • Code • Automate • Deploy**
-
-<br>
-
-<a href="https://ashyt-cloud.github.io/">
-<img src="https://img.shields.io/badge/🌐_Portfolio-ashyt--cloud.github.io-0A84FF?style=for-the-badge"/>
-</a>
 
 </div>
