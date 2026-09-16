@@ -46,33 +46,85 @@ I learn by building hands-on projects with **AWS, Terraform, Kubernetes, CI/CD, 
 
 <div align="center">
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,githubactions,jenkins,linux,python,bash,grafana,prometheus,git&perline=7"/>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,githubactions,jenkins,linux,python,bash,grafana,prometheus,git&perline=7" />
 
 </div>
 
+<br>
+
 ---
 
-### 🚀 Featured Projects
+## 🚀 Projects I've Built
 
-- ☁️ **AWS Secure Static Website** — Terraform · S3 · CloudFront · GitHub Actions
-- 🐳 **Dockerized 3-Tier Fitness App** — Docker · Node.js · Nginx · AWS
-- ☸️ **FitTrack Kubernetes** — Kubernetes · Kind · Ingress
-- 🏗️ **AWS Production Infrastructure** — Terraform · VPC · EC2 · RDS · ALB
-- ☸️ **Production EKS Platform** — EKS · Terraform · Helm · GitOps
-- 📊 **EKS Observability Platform** — Prometheus · Grafana · Loki
-- 🔄 **EKS CI/CD & GitOps Platform** — GitHub Actions · Argo CD · ECR
-- ⚡ **Serverless Event-Driven Platform** — Lambda · EventBridge · SQS · DynamoDB
+<div align="center">
+
+<a href="https://github.com/ashyT-Cloud/aws-static-website-terraform">
+<img src="https://img.shields.io/badge/☁️_AWS_Static_Website-Terraform_%7C_S3_%7C_CloudFront-232F3E?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/ashyT-Cloud/dockerized-3tier-fitness-app">
+<img src="https://img.shields.io/badge/🐳_3--Tier_Fitness_App-Docker_%7C_Nginx_%7C_AWS-2496ED?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/ashyT-Cloud/fittrack-k8s">
+<img src="https://img.shields.io/badge/☸️_FitTrack_Kubernetes-Kubernetes_%7C_Kind_%7C_Ingress-326CE5?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/ashyT-Cloud/production-aws-infrastructure">
+<img src="https://img.shields.io/badge/🏗️_AWS_Production_Infrastructure-Terraform_%7C_VPC_%7C_ALB-844FBA?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/ashyT-Cloud/production-eks-platform">
+<img src="https://img.shields.io/badge/☸️_Production_EKS_Platform-EKS_%7C_Helm_%7C_GitOps-326CE5?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/ashyT-Cloud/eks-observability-platform">
+<img src="https://img.shields.io/badge/📊_EKS_Observability-Prometheus_%7C_Grafana_%7C_Loki-E6522C?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/ashyT-Cloud/ci-cd-gitops-platform">
+<img src="https://img.shields.io/badge/🔄_CI%2FCD_%26_GitOps-GitHub_Actions_%7C_Argo_CD-2088FF?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/ashyT-Cloud/serverless-event-driven-platform">
+<img src="https://img.shields.io/badge/⚡_Serverless_Event--Driven-Lambda_%7C_EventBridge_%7C_SQS-FF9900?style=for-the-badge"/>
+</a>
+
+</div>
+
+<br>
 
 ---
 
 <div align="center">
 
-### 🎯 Build → Break → Learn → Fix → Automate → Repeat
+## 🎯 What I'm Working Toward
 
-### ☁️ Small Steps. Deploy Big Things.
+**Cloud Infrastructure** · **DevOps** · **Kubernetes**  
+**Infrastructure as Code** · **CI/CD** · **GitOps** · **Observability**
 
-**Cloud • Code • Automate • Deploy**
+<br>
+
+### 📚 Currently Learning
+
+AWS Architecture · EKS · Serverless · Event-Driven Systems
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+### ☁️ My Approach
+
+**Build → Break → Learn → Fix → Automate → Repeat**
+
+<br>
+
+### Small Steps. Deploy Big Things. 🚀
 
 </div>
