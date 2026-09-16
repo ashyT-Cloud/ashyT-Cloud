@@ -8,6 +8,8 @@
 
 </div>
 
+<br>
+
 <table>
 <tr>
 <td width="52%" valign="middle">
@@ -43,37 +45,32 @@ I learn by building hands-on projects with **AWS, Terraform, Kubernetes, CI/CD, 
 
 <td width="48%" align="center" valign="middle">
 
-<img src="./assets/cloud-devops-wink.gif" alt="Cloud & DevOps" width="520"/>
+<img src="./assets/cloud-devops-wink.gif" alt="Cloud & DevOps" width="500"/>
 
 </td>
 </tr>
 </table>
 
+<br>
+
 ---
 
 <div align="center">
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,githubactions,jenkins,linux,python,bash,grafana,prometheus,git&perline=7" />
 
-<br><br>
-
-**Cloud** · AWS · Azure · GCP  
-**Infrastructure** · Terraform · Kubernetes · Docker · Helm  
-**CI/CD & GitOps** · GitHub Actions · Jenkins · Argo CD  
-**Observability** · Prometheus · Grafana · CloudWatch
-
 </div>
 
----
+<br>
 
 <table>
 <tr>
 
 <td width="60%" valign="top">
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 | Project | Focus |
 |---|---|
@@ -90,13 +87,13 @@ I learn by building hands-on projects with **AWS, Terraform, Kubernetes, CI/CD, 
 
 <td width="40%" valign="top">
 
-### 🎯 My Approach
+## 🎯 My Approach
 
 **Build → Break → Learn → Fix → Automate → Repeat**
 
 <br>
 
-### 📚 Currently Learning
+## 📚 Currently Learning
 
 ☁️ AWS Architecture  
 ☸️ Kubernetes & EKS  
@@ -107,7 +104,7 @@ I learn by building hands-on projects with **AWS, Terraform, Kubernetes, CI/CD, 
 
 <br>
 
-### 🌱 Goal
+## 🌱 Goal
 
 To grow as a **Cloud/DevOps Engineer** and contribute to real-world systems while continuously learning and improving.
 
@@ -116,7 +113,7 @@ To grow as a **Cloud/DevOps Engineer** and contribute to real-world systems whil
 </tr>
 </table>
 
----
+<br>
 
 <div align="center">
 
